@@ -6351,6 +6351,18 @@ nice-try@^1.0.4:
   resolved "https://registry.npmjs.org/nice-try/-/nice-try-1.0.5.tgz"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
+nikkswapsdk@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/nikkswapsdk/-/nikkswapsdk-1.0.2.tgz#32774c5a27a80b8bd0781126053c6dca7534b704"
+  integrity sha512-BfAdo/5RtgBF4lPEpuSVwTCC3n2QFdUFJohd1YxHErYTSuFbbRjYLZEYpG+1MSZWQAQmRdRE6ieYTI9QduzGig==
+  dependencies:
+    "@ethersproject/address" "^5.0.2"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.4"
+    tiny-invariant "^1.1.0"
+    toformat "^2.0.0"
+
 no-case@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npmjs.org/no-case/-/no-case-3.0.4.tgz"

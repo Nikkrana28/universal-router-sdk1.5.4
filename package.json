@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/universal-router-sdk",
-  "version": "1.5.4",
+  "name": "nikkroutersdk",
+  "version": "1.0.2",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -56,11 +56,12 @@
     "@uniswap/v2-sdk": "^3.2.0",
     "@uniswap/v3-sdk": "^3.10.0",
     "bignumber.js": "^9.0.2",
-    "ethers": "^5.3.1"
+    "ethers": "^5.3.1",
+    "nikkswapsdk": "^1.0.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/universal-router-sdk.git"
+    "url": "git+https://github.com/Nikkrana28/universal-router-sdk1.5.4.git"
   },
   "bugs": {
     "url": "https://github.com/Uniswap/universal-router-sdk/issues"
